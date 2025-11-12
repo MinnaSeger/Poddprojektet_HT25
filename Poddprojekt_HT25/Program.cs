@@ -11,6 +11,7 @@ namespace Poddprojekt_HT25
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
+        /// Hanas kommentar 
         [STAThread]
         static void Main()
         {
